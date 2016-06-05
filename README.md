@@ -8,7 +8,7 @@ other libraries, you might be needed to authenticate in order to get special ite
 all depend on your campus library.
 
 #Install
-Git clone or Download the block into you Moodle system, place it inside the /blocks folder and click the "Notifications"
+*Git clone* or *Download* the block into your Moodle system, place it inside the /blocks folder and click the "Notifications"
 link under the settings block (As administrator).
 
 For this block to work properly, you will need to input the campus library's account sub domain, inside the block's
